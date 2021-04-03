@@ -1,0 +1,16 @@
+html {
+    font-size: 2vw;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #116466;
+}
+
+body {
+    padding: 0 2% 0 2%;
+    min-height: 100vh;
+}
+
+hr.line {
+    border: 3px solid #2c3531;
+    margin-bottom: 50px;
+}
+
